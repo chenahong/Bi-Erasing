@@ -13,8 +13,6 @@ Bi-Erasing is a Stable Diffusion erasing project for reducing unwanted visual co
 
 ![Main Experiment](./mian.png)
 
-[View the original PDF](./mian.pdf)
-
 ## Pipeline
 
 ![Pipeline](./process.png)
