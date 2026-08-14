@@ -1,0 +1,9 @@
+torch==2.3.0
+numpy==1.26.4
+torchvision==0.18.0
+pillow==10.3.0
+tokenizers==0.19.1
+transformers==4.44.0
+diffusers==0.30.0
+accelerate==0.26.0
+tqdm==4.66.4
